@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: 150px;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    align-items: baseline;
+}
+
+.intro {
+    padding: 20px;
+
+}
+
+.item-container{
+    display: flex;
+}
+
+div > h6 {
+    width: 160px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+footer > div {
+   position: relative;
+   display: inline-block;
+}
+
+footer > div > ul {
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
