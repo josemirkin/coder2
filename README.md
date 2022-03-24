@@ -1,1 +1,1 @@
-# Proyuecto numero 2 para curso de CoderHouse
+# Proyecto numero 2 para curso de CoderHouse
